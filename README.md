@@ -8,10 +8,10 @@
 - CRUD operations (create, read, update, delete) on user data
 
 # Technologies Used
-1 Node.js
-2 Express.js
-3 Multer
-4 MongoDB
+- Node.js
+- Express.js
+- Multer
+- MongoDB
 
 #Screenshots :
 ![Screenshot (422)](https://user-images.githubusercontent.com/95414266/226203085-f5db1649-d7f4-4128-a7a6-3c43de83c9f0.png)
