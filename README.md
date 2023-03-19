@@ -1,14 +1,14 @@
-#BASIC CRUD APP
+## BASIC CRUD APP
 
-#Features
+# Features
 -User registration
 -User login
 -User profile page
 -Profile picture upload
 -CRUD operations (create, read, update, delete) on user data
 
-#Technologies Used
---Node.js
+# Technologies Used
+-Node.js
 -Express.js
 -Multer
 -MongoDB
